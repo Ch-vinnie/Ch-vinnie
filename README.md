@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ch-vinnie
 - 👀 I’m interested in Production program
 - 🌱 I’m currently learning python and c .
-- 💞️ I’m looking to collaborate on ...
+- ⌨️ The road of interest of an older youth .
 - 📫 How to reach me ...
 
 <!---
